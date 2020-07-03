@@ -1106,7 +1106,7 @@ footer a {
         position: absolute;
         top: 0;
         width: 100%;
-        min-height: 2907px;
+        min-height: 2916px;
         height: 100%;
         background: url(../img/bg-mob.png) center 500px repeat-x;
         background-size: 100% 2416px;
@@ -1120,7 +1120,7 @@ footer a {
         display: block;
         position: relative;
         min-height: auto;
-        margin-bottom: 80px;
+        margin-bottom: 70px;
     }
     
     .main-block::after {
@@ -1150,15 +1150,16 @@ footer a {
     }
 
     .man {
-        left: 20px;
+        top: 265px;
+        left: 15px;
         width: 100%;
         height: 405px;
-        background-size: 375px;
+        background-size: 360px;
     }
 
     .main-products {
         max-width: 330px;
-        margin: 320px auto 20px;
+        margin: 330px auto 20px;
     }
 
     .action-announce {
